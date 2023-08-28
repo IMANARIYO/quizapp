@@ -10,7 +10,7 @@ const questions= [
         ]
     },
     {
-        question:"which is continent  in the world",
+        question:"which is the smallest continent  in the world",
         answers:[
             {Text:"asia",correct:false },
             {Text:"africa",correct:false },
@@ -41,6 +41,19 @@ const questions= [
             {Text:"gisagara",correct:false },
             {Text:"rwamagana",correct:true },
         ]
+    }
+    ,{
+        question:"in which continent does rwandas found on",
+        answers:[
+            {Text:"asia",correct:false },
+            {Text:"africa",correct:true },
+            {Text:"arctic",correct:false },
+            {Text:"europe",correct:false },
+            {Text:"austraria",correct:false },
+            {Text:"rwanda",correct:false },
+        ]
+
+
     }
 
 ];
